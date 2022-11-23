@@ -53,7 +53,7 @@ JavaScript: [JSFiddle](https://jsfiddle.net/terrylinooo/cLthqfdj/)
 ### JavaScript Library
 
 Checkout disableautofill.js
-GitHub: https://github.com/terrylinooo/disableautofill.js
+GitHub: [https://github.com/terrylinooo/disableautofill.js](https://github.com/terrylinooo/disableautofill.js)
 
 #### Pros
 - Easy to use.
